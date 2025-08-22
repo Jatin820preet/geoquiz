@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geoquiz</string>
+
+    <!-- Buttons -->
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="answer_shown">Answer shown</string>
+
+    <!-- Toasts -->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+
+    <!-- Questions (5) -->
+    <string name="question_australia_continent">Australia is both a country and a continent.</string>
+    <string name="question_capital_sydney">The capital of Australia is Sydney.</string>
+    <string name="question_equator_australia">The equator passes through Australia.</string>
+    <string name="question_everest_border">Mount Everest lies on the border of Nepal and China.</string>
+    <string name="question_sahara_south_america">The Sahara Desert is in South America.</string>
+
+    <string name="content_desc_next">Next question</string>
+    <string name="content_desc_prev">Previous question</string>
+</resources>
